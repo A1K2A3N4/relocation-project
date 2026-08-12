@@ -21,6 +21,9 @@ import os
 import numpy as np
 import pandas as pd
 
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+DEFAULT_INPUT = os.path.join(SCRIPT_DIR, "..", "Nassau Candy Distributor.csv")
+
 SHIP_SPEED_RANK = {
     "Same Day": 0,
     "First Class": 1,
@@ -98,7 +101,7 @@ def build_feature_matrix(df: pd.DataFrame):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--input", default="../Nassau Candy Distributor.csv")
+    ap.add_argument("--input", default=DEFAULT_INPUT)
     ap.add_argument("--outdir", default="out")
     args = ap.parse_args()
 
