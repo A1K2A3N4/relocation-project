@@ -1,0 +1,9 @@
+{
+  "model_quality_leadtime_r2": 0.03209134042733586,
+  "model_quality_margin_r2": 0.9999999956867703,
+  "recommended_reassignments": 47,
+  "avg_lead_time_reduction_pct": 4.45335685478503,
+  "avg_profit_impact_stability": 0.838670362721521,
+  "avg_scenario_confidence_score": 0.09913066602696928,
+  "total_estimated_profit_impact": 1427.6031310514459
+}

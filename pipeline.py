@@ -11,7 +11,7 @@ Runs the full Factory Reallocation & Shipping Optimization pipeline end to end:
                                   Stability, and Scenario Confidence Score
 
 Usage:
-    python pipeline.py --input "../Nassau Candy Distributor.csv" --outdir out
+    python pipeline.py --input "Nassau Candy Distributor.csv" --outdir out
 """
 import argparse
 import subprocess
@@ -26,7 +26,7 @@ def run(args, extra):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--input", default="../Nassau Candy Distributor.csv")
+    ap.add_argument("--input", default="Nassau Candy Distributor.csv")
     ap.add_argument("--outdir", default="out")
     ap.add_argument("--w-leadtime", type=float, default=0.5)
     ap.add_argument("--w-margin", type=float, default=0.5)

@@ -1,0 +1,70 @@
+{
+  "Lead Time Days": [
+    {
+      "name": "LinearRegression",
+      "interpretability_rank": 1,
+      "selected": false,
+      "mae": 210.61899069298488,
+      "rmse": 262.5860017725007,
+      "r2": -0.00574344011542105
+    },
+    {
+      "name": "DecisionTree",
+      "interpretability_rank": 2,
+      "selected": false,
+      "mae": 210.12569990739047,
+      "rmse": 262.76808375685084,
+      "r2": -0.007138725866931539
+    },
+    {
+      "name": "RandomForest",
+      "interpretability_rank": 3,
+      "selected": true,
+      "mae": 206.3262899429188,
+      "rmse": 257.5995819591771,
+      "r2": 0.03209134042733586
+    },
+    {
+      "name": "GradientBoosting",
+      "interpretability_rank": 4,
+      "selected": false,
+      "mae": 208.44505024389838,
+      "rmse": 260.2111637670433,
+      "r2": 0.012366260984388644
+    }
+  ],
+  "Margin Pct": [
+    {
+      "name": "LinearRegression",
+      "interpretability_rank": 1,
+      "selected": false,
+      "mae": 0.005347020968833619,
+      "rmse": 0.007422547255619026,
+      "r2": 0.9710499518091196
+    },
+    {
+      "name": "DecisionTree",
+      "interpretability_rank": 2,
+      "selected": false,
+      "mae": 0.0004047949835811926,
+      "rmse": 0.007930378684134555,
+      "r2": 0.9669530639323738
+    },
+    {
+      "name": "RandomForest",
+      "interpretability_rank": 3,
+      "selected": false,
+      "mae": 0.0003844330932873445,
+      "rmse": 0.00796400787520207,
+      "r2": 0.96667219510547
+    },
+    {
+      "name": "GradientBoosting",
+      "interpretability_rank": 4,
+      "selected": true,
+      "mae": 1.938480112647759e-06,
+      "rmse": 2.8650329299313187e-06,
+      "r2": 0.9999999956867703
+    }
+  ]
+}

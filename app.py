@@ -28,7 +28,7 @@ st.set_page_config(page_title="Factory Reallocation & Shipping Optimization", la
 # --------------------------------------------------------------------------
 st.sidebar.title("Pipeline")
 outdir = st.sidebar.text_input("Output directory", value="out")
-input_csv = st.sidebar.text_input("Input CSV", value="../Nassau Candy Distributor.csv")
+input_csv = st.sidebar.text_input("Input CSV", value="Nassau Candy Distributor.csv")
 top_n = st.sidebar.number_input("Top-N factory candidates", min_value=1, max_value=5, value=2)
 
 if st.sidebar.button("Run full pipeline", type="primary"):

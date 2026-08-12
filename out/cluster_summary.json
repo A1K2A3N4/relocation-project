@@ -1,0 +1,41 @@
+{
+  "k": 5,
+  "silhouette_score": 0.6031107916848352,
+  "centroids": [
+    {
+      "Cluster": 0,
+      "Avg_Lead_Time_Days": 1321.0440029606716,
+      "Orders": 478.85,
+      "Avg_Margin_Pct": 0.6754284524771631,
+      "Cluster Label": "Congested High-Volume"
+    },
+    {
+      "Cluster": 1,
+      "Avg_Lead_Time_Days": 1240.4739191729323,
+      "Orders": 12.5,
+      "Avg_Margin_Pct": 0.0769230769230769,
+      "Cluster Label": "Low-Volume / Niche"
+    },
+    {
+      "Cluster": 2,
+      "Avg_Lead_Time_Days": 1586.095238095238,
+      "Orders": 1.8571428571428572,
+      "Avg_Margin_Pct": 0.6240647682858738,
+      "Cluster Label": "Consistently Slow"
+    },
+    {
+      "Cluster": 3,
+      "Avg_Lead_Time_Days": 1302.6534663060627,
+      "Orders": 9.333333333333334,
+      "Avg_Margin_Pct": 0.5187262237111483,
+      "Cluster Label": "Low-Volume / Niche"
+    },
+    {
+      "Cluster": 4,
+      "Avg_Lead_Time_Days": 1000.5,
+      "Orders": 1.5,
+      "Avg_Margin_Pct": 0.6115577889447237,
+      "Cluster Label": "Low-Volume / Niche"
+    }
+  ]
+}

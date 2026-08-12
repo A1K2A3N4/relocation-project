@@ -1,0 +1,49 @@
+Factory,Region,Product Name,Orders,Avg_Lead_Time_Days,Avg_Margin_Pct,Total_Sales,Cluster,Cluster Label
+Chocolate,Atlantic,Wonka Bar - Nutty Crunch Surprise,482,1361.0995850622407,0.7134670487106017,6156.360000000001,0,Congested High-Volume
+Chocolate,Interior,Wonka Bar - Milk Chocolate,493,1332.6815415821502,0.6492307692307692,5837.0,0,Congested High-Volume
+Chocolate,Pacific,Wonka Bar -Scrumdiddlyumptious,660,1331.2469696969697,0.6944444444444444,8395.2,0,Congested High-Volume
+Chocolate,Gulf,Wonka Bar - Triple Dazzle Caramel,316,1331.139240506329,0.6533333333333334,4061.25,0,Congested High-Volume
+Chocolate,Interior,Wonka Bar -Scrumdiddlyumptious,455,1330.4021978021979,0.6944444444444444,6051.6,0,Congested High-Volume
+Chocolate,Pacific,Wonka Bar - Triple Dazzle Caramel,646,1329.2368421052631,0.6533333333333333,8647.5,0,Congested High-Volume
+Chocolate,Interior,Wonka Bar - Nutty Crunch Surprise,449,1328.5924276169264,0.7134670487106017,5796.89,0,Congested High-Volume
+Chocolate,Pacific,Wonka Bar - Milk Chocolate,648,1326.3657407407406,0.6492307692307693,8082.75,0,Congested High-Volume
+Chocolate,Gulf,Wonka Bar - Nutty Crunch Surprise,293,1324.3788395904437,0.7134670487106017,3667.9900000000002,0,Congested High-Volume
+Chocolate,Atlantic,Wonka Bar - Triple Dazzle Caramel,535,1323.7028037383177,0.6533333333333334,6978.75,0,Congested High-Volume
+Chocolate,Atlantic,Wonka Bar - Fudge Mallows,526,1321.8117870722433,0.6666666666666666,6433.2,0,Congested High-Volume
+Chocolate,Interior,Wonka Bar - Triple Dazzle Caramel,427,1318.7447306791569,0.6533333333333334,5422.5,0,Congested High-Volume
+Chocolate,Gulf,Wonka Bar -Scrumdiddlyumptious,302,1316.8311258278145,0.6944444444444444,3988.8,0,Congested High-Volume
+Chocolate,Pacific,Wonka Bar - Fudge Mallows,537,1314.1415270018622,0.6666666666666666,6861.6,0,Congested High-Volume
+Chocolate,Interior,Wonka Bar - Fudge Mallows,401,1312.4513715710723,0.6666666666666666,5418.0,0,Congested High-Volume
+Chocolate,Atlantic,Wonka Bar - Milk Chocolate,626,1309.4920127795526,0.6492307692307693,7124.0,0,Congested High-Volume
+Chocolate,Gulf,Wonka Bar - Fudge Mallows,280,1308.425,0.6666666666666666,3481.2000000000003,0,Congested High-Volume
+Chocolate,Atlantic,Wonka Bar -Scrumdiddlyumptious,609,1306.1018062397372,0.6944444444444444,7876.8,0,Congested High-Volume
+Chocolate,Pacific,Wonka Bar - Nutty Crunch Surprise,564,1302.9308510638298,0.7134670487106016,7046.31,0,Congested High-Volume
+Chocolate,Gulf,Wonka Bar - Milk Chocolate,328,1291.1036585365853,0.6492307692307693,4205.5,0,Congested High-Volume
+Other,Interior,Lickable Wallpaper,1,1641.0,0.5,20.0,2,Consistently Slow
+Sugar,Atlantic,Hair Toffee,1,1639.0,0.7777777777777778,22.5,2,Consistently Slow
+Sugar,Pacific,Laffy Taffy,1,1638.0,0.6231155778894473,1.99,2,Consistently Slow
+Sugar,Pacific,SweeTARTS,1,1638.0,0.4666666666666666,6.0,2,Consistently Slow
+Sugar,Gulf,Hair Toffee,1,1635.0,0.7777777777777778,9.0,2,Consistently Slow
+Sugar,Atlantic,Laffy Taffy,6,1456.1666666666667,0.6231155778894473,27.86,2,Consistently Slow
+Sugar,Atlantic,Fizzy Lifting Drinks,2,1455.5,0.6,33.75,2,Consistently Slow
+Other,Atlantic,Lickable Wallpaper,3,1394.0,0.5,60.0,3,Low-Volume / Niche
+Sugar,Interior,SweeTARTS,4,1364.75,0.4666666666666666,19.5,3,Low-Volume / Niche
+Other,Gulf,Wonka Gum,24,1349.5833333333333,0.52,123.75,3,Low-Volume / Niche
+Sugar,Atlantic,SweeTARTS,5,1347.6,0.4666666666666667,36.0,3,Low-Volume / Niche
+Other,Atlantic,Wonka Gum,34,1326.9117647058824,0.52,168.75,3,Low-Volume / Niche
+Other,Pacific,Kazookles,16,1318.625,0.0769230769230769,113.75,1,Low-Volume / Niche
+Other,Pacific,Wonka Gum,28,1311.75,0.52,96.25,3,Low-Volume / Niche
+Sugar,Atlantic,Fun Dip,1,1275.0,0.3999999999999999,6.0,3,Low-Volume / Niche
+Sugar,Atlantic,Nerds,4,1274.0,0.4666666666666666,15.0,3,Low-Volume / Niche
+Sugar,Pacific,Fizzy Lifting Drinks,1,1274.0,0.6,11.25,3,Low-Volume / Niche
+Sugar,Interior,Fizzy Lifting Drinks,2,1273.5,0.6,18.75,3,Low-Volume / Niche
+Sugar,Pacific,Hair Toffee,2,1273.5,0.7777777777777778,45.0,3,Low-Volume / Niche
+Other,Gulf,Kazookles,7,1272.4285714285713,0.0769230769230769,58.5,1,Low-Volume / Niche
+Sugar,Gulf,Fun Dip,1,1272.0,0.3999999999999999,1.5,3,Low-Volume / Niche
+Sugar,Interior,Laffy Taffy,1,1272.0,0.6231155778894473,1.99,3,Low-Volume / Niche
+Sugar,Interior,Fun Dip,1,1271.0,0.4,4.5,3,Low-Volume / Niche
+Other,Interior,Wonka Gum,29,1260.2068965517242,0.52,140.0,3,Low-Volume / Niche
+Other,Atlantic,Kazookles,19,1234.842105263158,0.0769230769230769,136.5,1,Low-Volume / Niche
+Other,Interior,Kazookles,8,1136.0,0.0769230769230769,65.0,1,Low-Volume / Niche
+Sugar,Gulf,Laffy Taffy,2,1092.0,0.6231155778894473,21.89,4,Low-Volume / Niche
+Sugar,Gulf,Fizzy Lifting Drinks,1,909.0,0.6,15.0,4,Low-Volume / Niche

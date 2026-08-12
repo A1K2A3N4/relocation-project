@@ -1,0 +1,21 @@
+[
+  "Units",
+  "Sales per Unit",
+  "Cost per Unit",
+  "Ship Speed Rank",
+  "State/Province Freq",
+  "City Freq",
+  "Ship Mode_First Class",
+  "Ship Mode_Same Day",
+  "Ship Mode_Second Class",
+  "Ship Mode_Standard Class",
+  "Region_Atlantic",
+  "Region_Gulf",
+  "Region_Interior",
+  "Region_Pacific",
+  "Factory_Chocolate",
+  "Factory_Other",
+  "Factory_Sugar",
+  "Country/Region_Canada",
+  "Country/Region_United States"
+]
